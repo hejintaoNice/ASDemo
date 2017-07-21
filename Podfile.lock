@@ -1,4 +1,5 @@
 PODS:
+  - MJRefresh (3.1.12)
   - PINCache (3.0.1-beta.4):
     - PINCache/Arc-exception-safe (= 3.0.1-beta.4)
     - PINCache/Core (= 3.0.1-beta.4)
@@ -23,14 +24,16 @@ PODS:
     - Texture/Core
 
 DEPENDENCIES:
+  - MJRefresh
   - Texture
 
 SPEC CHECKSUMS:
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
   PINCache: a89c8f609232afac77128557bd12c861844423d7
   PINOperation: ac23db44796d4a564ecf9b5ea7163510f579b71d
   PINRemoteImage: e4e02e15a6f96cedbcef2abf1c9c1228dc9897d7
   Texture: 18664254419f35de27af76399b3b265cbad5740a
 
-PODFILE CHECKSUM: cfb1bf82f58fd5e6c8ae265a149cd75533d3a755
+PODFILE CHECKSUM: 191e24a78607f098f65f496b4b442cdf9beea423
 
 COCOAPODS: 1.2.1

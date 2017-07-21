@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MJRefresh.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>PINCache.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,22 +37,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>04CF549EBEEE7BC87AEAE35397184D94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0AA21149FEE75ED8B7BA47AE4C720FEC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>337677A97533F38FE26AD430CE20559B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5B9E8F1BF67790FACF7F774F38158CC3</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>6AEBAB20B5C6E45C3FDBB0EBD2383ED6</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
 		<key>7020FA468B15664DBD673D04AD8E5C33</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D7E13B28A612BFE49D94CB9C87958FB7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
