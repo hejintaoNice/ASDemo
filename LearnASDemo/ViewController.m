@@ -74,7 +74,6 @@
         
         if(![self hasMoreData]){// 无数据显示
             self.mainTableNode.view.mj_footer.state = MJRefreshStateNoMoreData;
-            NSLog(@"no more data");
         }else{
             [self.mainTableNode.view.mj_footer endRefreshing];
         }
